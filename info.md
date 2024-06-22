@@ -1,4 +1,8 @@
 
+## 1.20.0
+[916c02f9257534ef5acd1e3f874dbcaa07f4abc1a8cd3464613ab48dd1c6090a.dll](dlls/916c02f9257534ef5acd1e3f874dbcaa07f4abc1a8cd3464613ab48dd1c6090a.dll)
+
+Version From DLL: `1.20.0`
 ## 1.19.80
 [cad507f5f06546a6d48fd561f8bbe7e3710baa3dbc9c8da62f0b6d7d52441430.dll](dlls/cad507f5f06546a6d48fd561f8bbe7e3710baa3dbc9c8da62f0b6d7d52441430.dll)
 
