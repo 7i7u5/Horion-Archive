@@ -1,1 +1,5 @@
 
+## 1.18.12
+[012a55ea7ca072fe3bffb768b5f2b09061b4b9355a88a73977c335fdb559ce49.dll](dlls/012a55ea7ca072fe3bffb768b5f2b09061b4b9355a88a73977c335fdb559ce49.dll)
+
+Version From DLL: `1.18.12`
