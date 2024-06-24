@@ -3,5 +3,5 @@ This tool is used to archive versions of the horion dlls. It uses the file hash 
 
 To see information about each dll (such as its version) go to the [Info](info.md) readme.
 
-If you would like a version added that is already stored, create an issue.
+If you would like a version added that isnt already stored, create an issue.
 # Dont care just want versions? Just go [Here](info.md)
