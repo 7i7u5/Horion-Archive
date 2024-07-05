@@ -1,4 +1,8 @@
 # Versions
+## 1.21.1.03 v5 `2024-07-05 16:50:23 UTC`
+[24ccd20949ffff18e65ad43e83a5b01ff9824dfe28afc394bf6e41fdc8f9f1c5.dll](dlls/24ccd20949ffff18e65ad43e83a5b01ff9824dfe28afc394bf6e41fdc8f9f1c5.dll)
+
+Version From DLL: `1.21.1`
 ## 1.21.1.03 v4 `2024-07-05 16:45:30 UTC`
 [24ccd20949ffff18e65ad43e83a5b01ff9824dfe28afc394bf6e41fdc8f9f1c5.dll](dlls/24ccd20949ffff18e65ad43e83a5b01ff9824dfe28afc394bf6e41fdc8f9f1c5.dll)
 
