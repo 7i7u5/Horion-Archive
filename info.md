@@ -1,4 +1,8 @@
 # Versions
+## 1.21.2.02 v3 `2024-07-13 18:50:18 UTC`
+[006d8fdf1253c2525d56bb9cc953c62b6d938b5380dbbaac6877cb0aed157f74.dll](dlls/006d8fdf1253c2525d56bb9cc953c62b6d938b5380dbbaac6877cb0aed157f74.dll)
+
+Version From DLL: `1.21.2`
 ## 1.21.2.02 v2 `2024-07-10 18:00:18 UTC`
 [a07222d8ad0e8e2e1c59666adc01fa7d6472a1dad4bca0ed0cf4b2388fe0642a.dll](dlls/a07222d8ad0e8e2e1c59666adc01fa7d6472a1dad4bca0ed0cf4b2388fe0642a.dll)
 
