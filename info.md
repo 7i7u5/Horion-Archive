@@ -33,7 +33,7 @@
 > 
 > Detected Version: `1.21.2`
 > 
-> Build Date: `Tue Jul  9 16:24:45 2024`
+> Build Date: `Tue Jul 9 16:24:45 2024`
 
 
 ## 1.21.1.03
@@ -43,7 +43,7 @@
 > 
 > Detected Version: `1.21.1`
 > 
-> Build Date: `Fri Jul  5 21:48:40 2024`
+> Build Date: `Fri Jul 5 21:48:40 2024`
 
 
 #### v4 `2024-07-04 18:50:24 UTC`
@@ -52,7 +52,7 @@
 > 
 > Detected Version: `1.21.1`
 > 
-> Build Date: `Thu Jul  4 18:33:47 2024`
+> Build Date: `Thu Jul 4 18:33:47 2024`
 
 
 #### v3 `2024-07-04 04:50:17 UTC`
@@ -61,7 +61,7 @@
 > 
 > Detected Version: `1.21.1`
 > 
-> Build Date: `Thu Jul  4 04:38:57 2024`
+> Build Date: `Thu Jul 4 04:38:57 2024`
 
 
 #### v2 `2024-07-04 00:20:22 UTC`
@@ -70,7 +70,7 @@
 > 
 > Detected Version: `1.21.1`
 > 
-> Build Date: `Thu Jul  4 00:05:00 2024`
+> Build Date: `Thu Jul 4 00:05:00 2024`
 
 
 #### v1 `2024-06-22 10:20:30 UTC`
@@ -99,7 +99,7 @@
 > 
 > Detected Version: `1.20.81`
 > 
-> Build Date: `Sun Jun  2 20:06:16 2024`
+> Build Date: `Sun Jun 2 20:06:16 2024`
 
 
 ## 1.20.31
@@ -109,7 +109,7 @@
 > 
 > Detected Version: `1.20.31`
 > 
-> Build Date: `Sun Oct  1 16:52:34 2023`
+> Build Date: `Sun Oct 1 16:52:34 2023`
 
 
 ## 1.20.12
@@ -129,7 +129,7 @@
 > 
 > Detected Version: `1.20.0`
 > 
-> Build Date: `Sat Jul  8 19:56:41 2023`
+> Build Date: `Sat Jul 8 19:56:41 2023`
 
 
 ## 1.19.80
