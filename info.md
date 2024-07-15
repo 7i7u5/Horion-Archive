@@ -241,3 +241,13 @@
 > Build Date: `Mon Feb 21 04:04:17 2022`
 
 
+## 1.21.3.01
+#### v1 `2024-07-15 19:00:06 UTC`
+> 
+> Download: [763912020ad71d68bb6c6edc4fd0f43059901e28ddc71a04ac137a9c5b9e4149.dll](dlls/763912020ad71d68bb6c6edc4fd0f43059901e28ddc71a04ac137a9c5b9e4149.dll)
+> 
+> Detected Version: `1.21.2`
+> 
+> Build Date: `Sun Jul 14 12:00:50 2024`
+
+
