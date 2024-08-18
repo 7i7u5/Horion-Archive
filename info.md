@@ -261,6 +261,15 @@
 
 
 ## 1.21.20.03
+#### v2 `2024-08-18 04:20:05 UTC`
+> 
+> Download: [3be2e4b7aa739b44c97a8132503b646567fe6e179a0eaae46a15f242072e400f.dll](dlls/3be2e4b7aa739b44c97a8132503b646567fe6e179a0eaae46a15f242072e400f.dll)
+> 
+> Detected Version: `Unknown`
+> 
+> Build Date: `Unknown`
+
+
 #### v1 `2024-08-13 16:40:07 UTC`
 > 
 > Download: [de78b928903c5e3766a3f7f69bbb89ea995124a724ab71ea04fb9fdbe5b72da6.dll](dlls/de78b928903c5e3766a3f7f69bbb89ea995124a724ab71ea04fb9fdbe5b72da6.dll)
