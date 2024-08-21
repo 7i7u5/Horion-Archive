@@ -1,6 +1,6 @@
 ## Versions
 ## 1.21.20.03
-#### v7 `2024-08-19 22:00:06 UTC`
+#### v6 `2024-08-19 22:00:06 UTC`
 > 
 > Download: [996f69918f2e3c53bf248562012720f97d42a8d6a92b7ad1a0bf0749a43b6132.dll](dlls/996f69918f2e3c53bf248562012720f97d42a8d6a92b7ad1a0bf0749a43b6132.dll)
 > 
@@ -9,7 +9,7 @@
 > Build Date: `Mon Aug 19 21:44:25 2024`
 
 
-#### v6 `2024-08-19 00:20:07 UTC`
+#### v5 `2024-08-19 00:20:07 UTC`
 > 
 > Download: [e0a33b58584325566fcc0426e28bbd2dd039e622814b951d2d2ab16cadba04bc.dll](dlls/e0a33b58584325566fcc0426e28bbd2dd039e622814b951d2d2ab16cadba04bc.dll)
 > 
@@ -18,7 +18,7 @@
 > Build Date: `Mon Aug 19 00:08:53 2024`
 
 
-#### v5 `2024-08-18 20:40:06 UTC`
+#### v4 `2024-08-18 20:40:06 UTC`
 > 
 > Download: [e8b5fa9e53f3c1649950b7ebfb4606974675a68d4d1b54455b54232b43de7950.dll](dlls/e8b5fa9e53f3c1649950b7ebfb4606974675a68d4d1b54455b54232b43de7950.dll)
 > 
@@ -27,7 +27,7 @@
 > Build Date: `Sun Aug 18 20:28:37 2024`
 
 
-#### v4 `2024-08-18 15:10:07 UTC`
+#### v3 `2024-08-18 15:10:07 UTC`
 > 
 > Download: [27792d993e46dd1ffd311ab12744910fdb352f42584f1e316102d471d1d351a2.dll](dlls/27792d993e46dd1ffd311ab12744910fdb352f42584f1e316102d471d1d351a2.dll)
 > 
@@ -36,22 +36,13 @@
 > Build Date: `Sun Aug 18 14:56:01 2024`
 
 
-#### v3 `2024-08-18 14:40:06 UTC`
+#### v2 `2024-08-18 14:40:06 UTC`
 > 
 > Download: [6ae1b0e09ad48f0c8eb4aa7e088de64c8e747c20ad482faa3e14c809f06c12e5.dll](dlls/6ae1b0e09ad48f0c8eb4aa7e088de64c8e747c20ad482faa3e14c809f06c12e5.dll)
 > 
 > Detected Version: `1.21.21`
 > 
 > Build Date: `Sun Aug 18 14:27:45 2024`
-
-
-#### v2 `2024-08-18 04:20:05 UTC`
-> 
-> Download: [3be2e4b7aa739b44c97a8132503b646567fe6e179a0eaae46a15f242072e400f.dll](dlls/3be2e4b7aa739b44c97a8132503b646567fe6e179a0eaae46a15f242072e400f.dll)
-> 
-> Detected Version: `Unknown`
-> 
-> Build Date: `Unknown`
 
 
 #### v1 `2024-08-13 16:40:07 UTC`
