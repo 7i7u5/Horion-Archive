@@ -10,7 +10,7 @@ Open horion injector and RIGHT CLICK on the inject button.
 
 # Step 4:
 Select the dll you downloaded and click open.
-It will not be injected
+It will now be injected
 > ![Info Image](images/selectdll.png)
 
 # Horion Archiver
