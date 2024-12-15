@@ -1,5 +1,14 @@
 ## Versions
 ## 1.21.51.02
+#### v10 `2024-12-15 06:50:07 UTC`
+> 
+> Download: [bf66c2be7a520f3393d8d83afabeca0a78fab983655a44e120ec5a9146a8053e.dll](dlls/bf66c2be7a520f3393d8d83afabeca0a78fab983655a44e120ec5a9146a8053e.dll)
+> 
+> Detected Version: `1.21.51`
+> 
+> Build Date: `Sun Dec 15 06:39:39 2024`
+
+
 #### v9 `2024-12-15 04:20:08 UTC`
 > 
 > Download: [3be89df15ddbf98c021ac06d2d614306daa866a6fc4183118b7f4e100c7a52f0.dll](dlls/3be89df15ddbf98c021ac06d2d614306daa866a6fc4183118b7f4e100c7a52f0.dll)
