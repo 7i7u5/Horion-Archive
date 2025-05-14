@@ -1,4 +1,14 @@
 ## Versions
+## 1.21.81.2
+#### v1 `2025-05-14 16:50:12 UTC`
+> 
+> Download: [175e74483e5f56396a881640f941f0b8f6b2469a3e7f8bb0a9c9e87422af33c7.dll](dlls/175e74483e5f56396a881640f941f0b8f6b2469a3e7f8bb0a9c9e87422af33c7.dll)
+> 
+> Detected Version: `1.21.81`
+> 
+> Build Date: `Wed May 14 16:36:13 2025`
+
+
 ## 1.21.80.3
 #### v2 `2025-05-12 17:30:12 UTC`
 > 
