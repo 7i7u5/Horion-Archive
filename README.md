@@ -19,3 +19,6 @@ This tool is used to archive versions of the horion dlls. It uses the file hash 
 To see information about each dll (such as its version) go to the [Info](info.md) readme.
 
 If you would like a version added that isnt already stored, create an issue.
+
+# Change Log
+ - `01/08/25` > Changed the archive to only store single dll version of each minecraft version to reduce redundancy
