@@ -1,6 +1,6 @@
 ## Versions
-## current_version
-#### v1 `2025-08-01 11:46:13 UTC`
+## 1.21.95.1
+#### v1 `2025-08-01 12:31:08 UTC`
 > 
 > Download: [9ec4a767305e685a60620bb4049cdd60761bc177684d4ece35f41afc9ef37390.dll](dlls/9ec4a767305e685a60620bb4049cdd60761bc177684d4ece35f41afc9ef37390.dll)
 > 
