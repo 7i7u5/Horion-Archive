@@ -340,3 +340,13 @@
 > Build Date: `Mon Feb 21 04:04:17 2022`
 
 
+## 1.21.100.6
+#### `2025-08-05 15:50:08 UTC`
+> 
+> Download: [85227de05588d80cd2441cfe52a9f07a235f5f0d1abf0a635916551c13f0012b.dll](dlls/85227de05588d80cd2441cfe52a9f07a235f5f0d1abf0a635916551c13f0012b.dll)
+> 
+> Detected Version: `1.21.94`
+> 
+> Build Date: `Sat Aug 2 01:46:46 2025`
+
+
