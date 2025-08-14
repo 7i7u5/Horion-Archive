@@ -1,13 +1,13 @@
 # `Versions`
 
 ## 1.21.101.1
-#### `2025-08-13 22:50:06 UTC`
+#### `2025-08-14 00:50:06 UTC`
 > 
-> Download: [e9aa0e73f0ff5dce40ba0569b769c4370ba068c61a17fccb4d24bcd108f13d4b.dll](dlls/e9aa0e73f0ff5dce40ba0569b769c4370ba068c61a17fccb4d24bcd108f13d4b.dll)
+> Download: [523007ed9f9f2aa58b7464f2d3e8aab13c1b24903486033121c922adfec019dd.dll](dlls/523007ed9f9f2aa58b7464f2d3e8aab13c1b24903486033121c922adfec019dd.dll)
 > 
 > Detected Version: `1.21.101`
 > 
-> Build Date: `Wed Aug 13 22:46:13 2025`
+> Build Date: `Wed Aug 13 23:21:10 2025`
 
 
 ## 1.21.95.1
