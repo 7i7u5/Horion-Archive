@@ -360,3 +360,13 @@
 > Build Date: `Tue Sep 2 17:18:14 2025`
 
 
+## 1.21.120.4
+#### `2025-10-28 17:50:06 UTC`
+> 
+> Download: [9945bc975e1fa8ed460ea0e8f0f93255bab5a4f41e8c127b2631d2b66e675901.dll](dlls/9945bc975e1fa8ed460ea0e8f0f93255bab5a4f41e8c127b2631d2b66e675901.dll)
+> 
+> Detected Version: `1.21.101`
+> 
+> Build Date: `Tue Oct 28 17:43:00 2025`
+
+
