@@ -370,3 +370,13 @@
 > Build Date: `Tue Oct 28 17:43:00 2025`
 
 
+## 1.21.123.2
+#### `2025-11-18 12:00:04 UTC`
+> 
+> Download: [be3efd53f27994908adc67a913512698701579f2ad833f47cd5c8087f2357657.dll](dlls/be3efd53f27994908adc67a913512698701579f2ad833f47cd5c8087f2357657.dll)
+> 
+> Detected Version: `Unknown`
+> 
+> Build Date: `Unknown`
+
+
