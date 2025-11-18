@@ -371,9 +371,9 @@
 
 
 ## 1.21.123.2
-#### `2025-11-18 14:30:04 UTC`
+#### `2025-11-18 15:10:03 UTC`
 > 
-> Download: [e37da9bc135e7012c891996a25d19f1b20fe47260e165ba1c5897a38398b3353.dll](dlls/e37da9bc135e7012c891996a25d19f1b20fe47260e165ba1c5897a38398b3353.dll)
+> Download: [8bdabe4bb7a35556396e3f8ae9fb191430ecf0efdba92a12db494f505613985a.dll](dlls/8bdabe4bb7a35556396e3f8ae9fb191430ecf0efdba92a12db494f505613985a.dll)
 > 
 > Detected Version: `Unknown`
 > 
